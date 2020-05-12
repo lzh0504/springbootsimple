@@ -1,4 +1,9 @@
 # springbootsimple
 第一个git仓库练习
-#练习内容
-修改内容信息
+
+```
+LispGentleIntro
+===============
+Lisp-符号计算入门指引翻译
+```
+
