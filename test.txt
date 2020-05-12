@@ -1,5 +1,5 @@
 增加test.txt文件的内容,
 git文件上传远程仓库的步骤
  1.git add . 设置文件上传
- 2.git commit -f "说明信息"  设置说明信息
+ 2.git commit -m "说明信息"  设置说明信息
  3.git push origin master 上传到远程仓库
